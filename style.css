@@ -11,7 +11,7 @@ body {
     display: flex;
     justify-content: space-around;
     align-items:center;
-    padding: 20px 0;
+    padding: 10px 0;
 }
 .cabecalho-alura{
     width: 10%;
